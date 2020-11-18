@@ -1,0 +1,6 @@
+REACT_APP_BASE_URL=https://api.ilhamahmad.com/ilhamahmad
+REACT_APP_BASE_URL=http://localhost:8080
+img size 790 px
+note div color : #FDFFB4 
+for style -  overflow-y:scroll;display:flow-root;
+class="darkmode-ignore"
